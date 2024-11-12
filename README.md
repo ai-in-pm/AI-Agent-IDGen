@@ -19,7 +19,10 @@ No additional environment setup is required. The system works out of the box.
 
 3. Start Development Server
 To start the development server, use the following command:
+
 npm run dev
+
 4. Build for Production
 To build the project for production, execute:
+
 npm run build
