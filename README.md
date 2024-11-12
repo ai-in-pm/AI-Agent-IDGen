@@ -3,7 +3,6 @@ A comprehensive system for generating and managing unique identifiers for AI age
 
 ![image](https://github.com/user-attachments/assets/aed28f4a-e3d3-4c24-9041-add74a111fee)
 
-# Project Title
 
 ## Installation Instructions
 
